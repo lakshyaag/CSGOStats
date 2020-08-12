@@ -18,8 +18,6 @@ library(shinycssloaders)
 
 options(dplyr.summarise.inform=F)
 
-
-windowsFonts(Helvetica = 'Product Sans')
 theme_set(theme_minimal() +
               theme(text = element_text(family = 'Helvetica', size = 16),
                     axis.text = element_text(face = 'bold', size = 14),
