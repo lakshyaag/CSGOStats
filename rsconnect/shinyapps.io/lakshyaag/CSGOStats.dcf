@@ -1,0 +1,12 @@
+name: CSGOStats
+title: CSGOStats
+username:
+account: lakshyaag
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2663687
+bundleId: 3506909
+url: https://lakshyaag.shinyapps.io/CSGOStats/
+when: 1597246436.96594
+asMultiple: FALSE
+asStatic: FALSE
